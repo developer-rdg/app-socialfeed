@@ -1,16 +1,13 @@
-# Projeto React Web: Feed
+# React Web Project: Feed
+## 📖 About the project
+This project is a web application that replicates a social media "Feed" page. Users can engage with the content by commenting, liking posts, and performing other typical actions found on social networks. The main objective of this project is to enhance my skills and techniques in React Web development.
 
-## 📖 Sobre o projeto
-
-É uma aplicação web que replica uma página de "Feed" de uma rede social, onde os usuários podem comentar, dar "like" e realizar outras ações típicas das redes sociais.
-
-Este projeto foi criado seguindo um tutorial com o objetivo de melhorar minhas habilidades e técnicas em React Web. O projeto consiste em uma aplicação web que permite aos usuários realizar tarefas específicas.
-
-## 🚀 Tecnologias Utilizadas
-
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## 🚀 Technologies Used
+The project was developed using the following technologies:
 
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 
+By utilizing React, Node.js, and CSS, I created a dynamic and interactive web application that allows users to perform specific tasks within the feed interface.
+Feel free to explore the project and provide any feedback or suggestions for improvement.
