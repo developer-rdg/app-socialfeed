@@ -8,6 +8,11 @@ The project was developed using the following technologies:
 - [React](https://reactjs.org/)
 - [Node.js](https://nodejs.org/)
 - [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [TypeScript](https://www.typescriptlang.org/)
 
-By utilizing React, Node.js, and CSS, I created a dynamic and interactive web application that allows users to perform specific tasks within the feed interface.
+In this project, I used TypeScript for static typing and leveraged the power of declarative programming to create a more readable, maintainable, and clean codebase.
+
+## 🧑‍💻 Development Methodology
+Following clean code principles is an essential aspect of this project. I ensured that the code is easy to read and understand, has fewer complexities, and follows industry-standard practices. Declarative programming was also a significant part of the development methodology, making the code more intuitive and focused on the what rather than the how.
+
 Feel free to explore the project and provide any feedback or suggestions for improvement.
